@@ -1,0 +1,10 @@
+[12296:30500:0929/131018.557:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12296:30500:0929/131018.894:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[12296:30500:0929/131018.941:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35616:23064:0929/131023.814:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1F07D58B6BB32CDFDCF8D3A98A6ED6E6 will be ignored
+[12296:28748:0929/131025.351:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12296:28748:0929/131025.353:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12296:28748:0929/131025.361:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12296:28748:0929/131025.363:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12296:28748:0929/131025.365:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12296:30500:0929/135254.542:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
