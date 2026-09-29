@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/Input/IMC_Default.uasset",
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/troops/prep/BP_prepguy.uasset",
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/Input/Actions/IA_click.uasset",
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/YP/LSUMK6KF5XISHAKK7L72LA.uasset",
+				"C:/Users/30189275/OneDrive - NESCol/HND/Troop_Placement 5.7/Content/placing_Cam/PlacingCam.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/IJ/E7WQWO4MJ84GWAX8H4UR84.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/2H/HS4VI3UZJT1LNKM6HC7PL2.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/6J/NUEDVP0K274K8FKJ6Y0WEX.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HV/3VH3D4CLM38OC4F8ICXDVQ.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/R5/8FN93FIP5FEZUI0RECK61K.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8V/Q896X99E5DMTT521YEXM9A.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TI/UOUH4EXJHIGJNF2D0Y7CPX.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset",
+				"C:/Users/maxba/OneDrive - NESCol/HND/Troop_Placement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset"
+			]
+		}
+	]
+}

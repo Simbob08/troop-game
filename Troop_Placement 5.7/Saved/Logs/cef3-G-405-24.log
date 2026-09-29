@@ -1,0 +1,9 @@
+[12208:20612:0910/105258.095:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12208:20612:0910/105258.180:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26008:20276:0910/105308.007:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B38E7CB0E65E4EBF4D526B97AD1CB670 will be ignored
+[12208:15224:0910/105308.045:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12208:15224:0910/105308.047:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12208:15224:0910/105308.058:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12208:15224:0910/105308.097:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27580:30568:0910/111337.244:WARNING:video_capture_oracle.cc(280)] Very old capture being ignored: frame #1
+[12208:20612:0910/115655.396:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
